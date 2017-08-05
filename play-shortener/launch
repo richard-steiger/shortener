@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+target/universal/stage/bin/play-shortener -Dplay.crypto.secret=abcdefghijk

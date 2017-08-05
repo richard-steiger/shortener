@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(U:\play\shortener\play-shortener\conf\application.conf,U:\play\shortener\play-shortener\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(U:\play\shortener\play-shortener\conf\logback.xml,U:\play\shortener\play-shortener\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(U:\play\shortener\play-shortener\conf\META-INF,U:\play\shortener\play-shortener\target\scala-2.11\classes\META-INF)[0m
+[0m[[0mdebug[0m] [0m	(U:\play\shortener\play-shortener\conf\routes,U:\play\shortener\play-shortener\target\scala-2.11\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(U:\play\shortener\play-shortener\conf\META-INF\persistence.xml,U:\play\shortener\play-shortener\target\scala-2.11\classes\META-INF\persistence.xml)[0m

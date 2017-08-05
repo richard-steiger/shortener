@@ -1,0 +1,12 @@
+@(id: String)
+
+@main("May I Shorten Your URL?") {
+    <script type='text/javascript' src='@routes.Assets.at("javascripts/index.js")'></script>
+
+    <form method="POST" action="@routes.AliasController.addAlias()">
+        <label for="name"><input type="text" name="name"/>
+        <input type="submit" style="display: none" />
+    </form>
+
+    <div>shortened to: <b>@id</b></div>
+}

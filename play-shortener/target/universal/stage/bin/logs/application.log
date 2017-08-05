@@ -1,0 +1,222 @@
+2017-08-05 13:29:18,525 [INFO] from application in main - Creating Pool for datasource 'default'
+2017-08-05 13:29:18,542 [INFO] from com.zaxxer.hikari.HikariDataSource in main - HikariPool-1 - Started.
+2017-08-05 13:29:18,640 [INFO] from play.api.db.HikariCPConnectionPool in main - datasource [default] bound to JNDI as DefaultDS
+2017-08-05 13:29:18,649 [INFO] from play.api.db.DefaultDBApi in main - Database [default] connected at jdbc:h2:mem:play
+2017-08-05 13:29:18,789 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 5.2.4.Final
+2017-08-05 13:29:18,975 [INFO] from org.hibernate.jpa.internal.util.LogHelper in main - HHH000204: Processing PersistenceUnitInfo [
+	name: defaultPersistenceUnit
+	...]
+2017-08-05 13:29:19,023 [INFO] from org.hibernate.Version in main - HHH000412: Hibernate Core {5.2.5.Final}
+2017-08-05 13:29:19,025 [INFO] from org.hibernate.cfg.Environment in main - HHH000206: hibernate.properties not found
+2017-08-05 13:29:19,053 [INFO] from org.hibernate.annotations.common.Version in main - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-08-05 13:29:19,141 [INFO] from org.hibernate.dialect.Dialect in main - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2017-08-05 13:29:19,691 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2017-08-05 13:29:19,697 [DEBUG] from play.api.libs.concurrent.ActorSystemProvider in main - Starting application default Akka system: application
+2017-08-05 13:29:19,827 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,827 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,830 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,830 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,830 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,830 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,830 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,830 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2017-08-05 13:29:19,831 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2017-08-05 13:31:50,955 [INFO] from application in main - Creating Pool for datasource 'default'
+2017-08-05 13:31:50,969 [INFO] from com.zaxxer.hikari.HikariDataSource in main - HikariPool-1 - Started.
+2017-08-05 13:31:51,054 [INFO] from play.api.db.HikariCPConnectionPool in main - datasource [default] bound to JNDI as DefaultDS
+2017-08-05 13:31:51,062 [INFO] from play.api.db.DefaultDBApi in main - Database [default] connected at jdbc:h2:mem:play
+2017-08-05 13:31:51,223 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 5.2.4.Final
+2017-08-05 13:31:51,406 [INFO] from org.hibernate.jpa.internal.util.LogHelper in main - HHH000204: Processing PersistenceUnitInfo [
+	name: defaultPersistenceUnit
+	...]
+2017-08-05 13:31:51,456 [INFO] from org.hibernate.Version in main - HHH000412: Hibernate Core {5.2.5.Final}
+2017-08-05 13:31:51,458 [INFO] from org.hibernate.cfg.Environment in main - HHH000206: hibernate.properties not found
+2017-08-05 13:31:51,490 [INFO] from org.hibernate.annotations.common.Version in main - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-08-05 13:31:51,563 [INFO] from org.hibernate.dialect.Dialect in main - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2017-08-05 13:31:52,099 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-3 - Slf4jLogger started
+2017-08-05 13:31:52,105 [DEBUG] from play.api.libs.concurrent.ActorSystemProvider in main - Starting application default Akka system: application
+2017-08-05 13:31:52,257 [INFO] from play.api.Play in main - Application started (Prod)
+2017-08-05 13:31:52,562 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2017-08-05 13:33:13,085 [INFO] from org.hibernate.hql.internal.QueryTranslatorFactoryInitiator in application-database.dispatcher-26 - HHH000397: Using ASTQueryTranslatorFactory
+2017-08-05 13:33:13,138 [ERROR] from application in application-database.dispatcher-26 - 
+
+! @7501adfhi - Internal server error, for (POST) [/alias] ->
+ 
+play.api.UnexpectedException: Unexpected exception[CompletionException: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]]
+	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:289)
+	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:220)
+	at play.api.GlobalSettings$class.onError(GlobalSettings.scala:160)
+	at play.api.DefaultGlobal$.onError(GlobalSettings.scala:188)
+	at play.api.http.GlobalSettingsHttpErrorHandler.onServerError(HttpErrorHandler.scala:100)
+	at play.core.server.netty.PlayRequestHandler$$anonfun$2$$anonfun$apply$1.applyOrElse(PlayRequestHandler.scala:100)
+	at play.core.server.netty.PlayRequestHandler$$anonfun$2$$anonfun$apply$1.applyOrElse(PlayRequestHandler.scala:99)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:346)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:345)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36)
+	at play.api.libs.iteratee.Execution$trampoline$.executeScheduled(Execution.scala:109)
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:71)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:44)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:252)
+	at scala.concurrent.Promise$class.complete(Promise.scala:55)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:157)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:94)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:89)
+	at java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:760)
+	at java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:736)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595)
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:39)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1592)
+	... 4 common frames omitted
+Caused by: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:131)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:155)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:162)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:662)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:678)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:23)
+	at models.JPAAliasRepository.lambda$null$0(JPAAliasRepository.java:40)
+	at play.db.jpa.DefaultJPAApi.withTransaction(DefaultJPAApi.java:152)
+	at play.db.jpa.DefaultJPAApi.withTransaction(DefaultJPAApi.java:110)
+	at models.JPAAliasRepository.lambda$add$1(JPAAliasRepository.java:38)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590)
+	... 4 common frames omitted
+Caused by: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]
+	at org.hibernate.hql.internal.ast.QuerySyntaxException.generateQueryException(QuerySyntaxException.java:79)
+	at org.hibernate.QueryException.wrapWithQueryString(QueryException.java:103)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:218)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:142)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:115)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:77)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:153)
+	at org.hibernate.internal.AbstractSharedSessionContract.getQueryPlan(AbstractSharedSessionContract.java:545)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:654)
+	... 11 common frames omitted
+Caused by: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped
+	at org.hibernate.hql.internal.ast.util.SessionFactoryHelper.requireClassPersister(SessionFactoryHelper.java:171)
+	at org.hibernate.hql.internal.ast.tree.FromElementFactory.addFromElement(FromElementFactory.java:91)
+	at org.hibernate.hql.internal.ast.tree.FromClause.addFromElement(FromClause.java:79)
+	at org.hibernate.hql.internal.ast.HqlSqlWalker.createFromElement(HqlSqlWalker.java:321)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.fromElement(HqlSqlBaseWalker.java:3690)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.fromElementList(HqlSqlBaseWalker.java:3579)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.fromClause(HqlSqlBaseWalker.java:718)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.query(HqlSqlBaseWalker.java:574)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.selectStatement(HqlSqlBaseWalker.java:311)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.statement(HqlSqlBaseWalker.java:259)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.analyze(QueryTranslatorImpl.java:262)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:190)
+	... 17 common frames omitted
+2017-08-05 14:01:15,204 [DEBUG] from play.api.libs.concurrent.ActorSystemProvider in Thread-7 - Shutdown application default Akka system: application
+2017-08-05 14:01:15,246 [INFO] from application in Thread-7 - Shutting down connection pool.
+2017-08-05 14:01:15,249 [INFO] from com.zaxxer.hikari.pool.HikariPool in Thread-7 - HikariPool-1 - Close initiated...
+2017-08-05 14:01:15,250 [INFO] from com.zaxxer.hikari.pool.HikariPool in Thread-7 - HikariPool-1 - Closed.
+2017-08-05 14:05:31,764 [INFO] from application in main - Creating Pool for datasource 'default'
+2017-08-05 14:05:31,781 [INFO] from com.zaxxer.hikari.HikariDataSource in main - HikariPool-1 - Started.
+2017-08-05 14:05:31,882 [INFO] from play.api.db.HikariCPConnectionPool in main - datasource [default] bound to JNDI as DefaultDS
+2017-08-05 14:05:31,891 [INFO] from play.api.db.DefaultDBApi in main - Database [default] connected at jdbc:h2:mem:play
+2017-08-05 14:05:32,061 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 5.2.4.Final
+2017-08-05 14:05:32,273 [INFO] from org.hibernate.jpa.internal.util.LogHelper in main - HHH000204: Processing PersistenceUnitInfo [
+	name: defaultPersistenceUnit
+	...]
+2017-08-05 14:05:32,347 [INFO] from org.hibernate.Version in main - HHH000412: Hibernate Core {5.2.5.Final}
+2017-08-05 14:05:32,348 [INFO] from org.hibernate.cfg.Environment in main - HHH000206: hibernate.properties not found
+2017-08-05 14:05:32,382 [INFO] from org.hibernate.annotations.common.Version in main - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-08-05 14:05:32,476 [INFO] from org.hibernate.dialect.Dialect in main - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2017-08-05 14:05:33,065 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2017-08-05 14:05:33,072 [DEBUG] from play.api.libs.concurrent.ActorSystemProvider in main - Starting application default Akka system: application
+2017-08-05 14:05:33,237 [INFO] from play.api.Play in main - Application started (Prod)
+2017-08-05 14:05:33,559 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2017-08-05 14:06:25,256 [INFO] from org.hibernate.hql.internal.QueryTranslatorFactoryInitiator in application-database.dispatcher-16 - HHH000397: Using ASTQueryTranslatorFactory
+2017-08-05 14:06:25,311 [ERROR] from application in application-database.dispatcher-16 - 
+
+! @7501emohk - Internal server error, for (POST) [/alias] ->
+ 
+play.api.UnexpectedException: Unexpected exception[CompletionException: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]]
+	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:289)
+	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:220)
+	at play.api.GlobalSettings$class.onError(GlobalSettings.scala:160)
+	at play.api.DefaultGlobal$.onError(GlobalSettings.scala:188)
+	at play.api.http.GlobalSettingsHttpErrorHandler.onServerError(HttpErrorHandler.scala:100)
+	at play.core.server.netty.PlayRequestHandler$$anonfun$2$$anonfun$apply$1.applyOrElse(PlayRequestHandler.scala:100)
+	at play.core.server.netty.PlayRequestHandler$$anonfun$2$$anonfun$apply$1.applyOrElse(PlayRequestHandler.scala:99)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:346)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:345)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36)
+	at play.api.libs.iteratee.Execution$trampoline$.executeScheduled(Execution.scala:109)
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:71)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:44)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:252)
+	at scala.concurrent.Promise$class.complete(Promise.scala:55)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:157)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:94)
+	at scala.concurrent.java8.FuturesConvertersImpl$P.accept(FutureConvertersImpl.scala:89)
+	at java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:760)
+	at java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:736)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:474)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1595)
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:39)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1592)
+	... 4 common frames omitted
+Caused by: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:131)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:155)
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:162)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:662)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:678)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:23)
+	at models.JPAAliasRepository.lambda$null$0(JPAAliasRepository.java:40)
+	at play.db.jpa.DefaultJPAApi.withTransaction(DefaultJPAApi.java:152)
+	at play.db.jpa.DefaultJPAApi.withTransaction(DefaultJPAApi.java:110)
+	at models.JPAAliasRepository.lambda$add$1(JPAAliasRepository.java:38)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590)
+	... 4 common frames omitted
+Caused by: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped [from Alias a where a.name = :name]
+	at org.hibernate.hql.internal.ast.QuerySyntaxException.generateQueryException(QuerySyntaxException.java:79)
+	at org.hibernate.QueryException.wrapWithQueryString(QueryException.java:103)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:218)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:142)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:115)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:77)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:153)
+	at org.hibernate.internal.AbstractSharedSessionContract.getQueryPlan(AbstractSharedSessionContract.java:545)
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:654)
+	... 11 common frames omitted
+Caused by: org.hibernate.hql.internal.ast.QuerySyntaxException: Alias is not mapped
+	at org.hibernate.hql.internal.ast.util.SessionFactoryHelper.requireClassPersister(SessionFactoryHelper.java:171)
+	at org.hibernate.hql.internal.ast.tree.FromElementFactory.addFromElement(FromElementFactory.java:91)
+	at org.hibernate.hql.internal.ast.tree.FromClause.addFromElement(FromClause.java:79)
+	at org.hibernate.hql.internal.ast.HqlSqlWalker.createFromElement(HqlSqlWalker.java:321)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.fromElement(HqlSqlBaseWalker.java:3690)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.fromElementList(HqlSqlBaseWalker.java:3579)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.fromClause(HqlSqlBaseWalker.java:718)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.query(HqlSqlBaseWalker.java:574)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.selectStatement(HqlSqlBaseWalker.java:311)
+	at org.hibernate.hql.internal.antlr.HqlSqlBaseWalker.statement(HqlSqlBaseWalker.java:259)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.analyze(QueryTranslatorImpl.java:262)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:190)
+	... 17 common frames omitted
+2017-08-05 14:06:39,549 [DEBUG] from play.api.libs.concurrent.ActorSystemProvider in Thread-7 - Shutdown application default Akka system: application
+2017-08-05 14:06:39,569 [INFO] from application in Thread-7 - Shutting down connection pool.
+2017-08-05 14:06:39,570 [INFO] from com.zaxxer.hikari.pool.HikariPool in Thread-7 - HikariPool-1 - Close initiated...
+2017-08-05 14:06:39,571 [INFO] from com.zaxxer.hikari.pool.HikariPool in Thread-7 - HikariPool-1 - Closed.

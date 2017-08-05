@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging U:\play\shortener\play-shortener\target\scala-2.11\play-shortener_2.11-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	models\AliasRepository.java[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\app\models\AliasRepository.java[0m
+[0m[[0mdebug[0m] [0m	controllers\AliasController.java[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\app\controllers\AliasController.java[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\conf\logback.xml[0m
+[0m[[0mdebug[0m] [0m	models\DatabaseExecutionContext.java[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\app\models\DatabaseExecutionContext.java[0m
+[0m[[0mdebug[0m] [0m	META-INF[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\conf\META-INF[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\conf\application.conf[0m
+[0m[[0mdebug[0m] [0m	META-INF\persistence.xml[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\conf\META-INF\persistence.xml[0m
+[0m[[0mdebug[0m] [0m	models\Alias.java[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\app\models\Alias.java[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\conf\routes[0m
+[0m[[0mdebug[0m] [0m	models\JPAAliasRepository.java[0m
+[0m[[0mdebug[0m] [0m	  U:\play\shortener\play-shortener\app\models\JPAAliasRepository.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

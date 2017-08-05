@@ -1,0 +1,5 @@
+2017-08-05 11:33:32,979 [INFO] from application in main - Creating Pool for datasource 'default'
+2017-08-05 11:33:32,994 [INFO] from com.zaxxer.hikari.HikariDataSource in main - HikariPool-1 - Started.
+2017-08-05 11:33:33,090 [INFO] from play.api.db.HikariCPConnectionPool in main - datasource [default] bound to JNDI as DefaultDS
+2017-08-05 11:33:33,098 [INFO] from play.api.db.DefaultDBApi in main - Database [default] connected at jdbc:h2:mem:play
+2017-08-05 11:33:33,374 [INFO] from org.hibernate.validator.internal.util.Version in main - HV000001: Hibernate Validator 5.2.4.Final
